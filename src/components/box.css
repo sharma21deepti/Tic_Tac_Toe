@@ -1,0 +1,38 @@
+.box{
+    background-color:white;
+    border:none;
+    border-radius:5px;
+    box-shadow:0px 0px 10px #888;
+    
+    text-align:center;
+    
+    
+    width:150px;
+    height:150px;
+}
+
+.box-x{
+    padding:10px;
+    margin:10px;
+    color:red;
+    width:5rem;
+    height:5rem;
+    font-weight:700;
+    font-size:40px;
+    border-radius:5px;
+    box-shadow:0px 0px 10px #888;
+}
+.box-o{
+    color:blue;
+    border-radius:5px;
+    box-shadow:0px 0px 10px #888;
+    font-size:35px;
+    font-weight:700;
+    width:5rem;
+    height:5rem;
+    padding:10px;
+    margin:10px;
+}
+.box:hover{
+    box-shadow:0px 0px 12px #888;
+}
